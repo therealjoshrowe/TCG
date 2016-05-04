@@ -1,4 +1,6 @@
-/*
-!/Magic\ Card\ Maker\ Test
-/Magic\ Card\ Maker\ Test/*
-!/Magic\ Card\ Maker\ Test/src
+*.class
+*.png
+*.jpg
+*.project
+*.classpath
+*.DS_Store

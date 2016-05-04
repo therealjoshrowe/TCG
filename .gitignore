@@ -1,3 +1,4 @@
-*jpg
-*png
+/*
+!/Test
+/Test/*
 !Test/src
